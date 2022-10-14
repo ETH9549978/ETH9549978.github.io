@@ -40,6 +40,9 @@
 
     // example:
     createCollectable(type.steve, 200, 170, 6, 0.7);
+    createCollectable(type.max, 300, 570, 6, 0.7);
+    createCollectable(type.grace, 600, 370, 6, 0.7);
+    createCollectable(type.kennedi, 700, 170, 6, 0.7);
 
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////
